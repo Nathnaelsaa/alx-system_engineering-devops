@@ -1,2 +1,4 @@
 !/bin/bash
-ls -lals -la
+ls 
+-lals 
+3-listfiles
