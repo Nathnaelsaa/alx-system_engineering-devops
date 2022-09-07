@@ -1,1 +1,1 @@
-Deleted the file betty
+Deleted the file my firest directory
